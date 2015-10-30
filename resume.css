@@ -1,0 +1,35 @@
+	
+.bar li 
+{
+	position: relative;
+	top: 100px;
+	display: inline;
+	font-size: 25px;
+	text-transform: capitalize;
+	padding: 20px;
+	background-color: black;
+	
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}
+
+header
+{
+	color: black;
+	text-transform: uppercase;
+	font-size: 40px;
+	font-family: fantasy;
+}
+img
+{
+	width:200px;
+	height:100px;
+}
+tab
+{
+
+	color: black;
+}
